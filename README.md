@@ -60,3 +60,15 @@ Acredito que o foco seje no PS4, pois é um plataforma nova (em relação as out
 Em relação ao genero, os mais vendidos mundialmente e que atendem a todas as regiões são:
 Action, Shooter, Sports, Role-Playing, Music
 Com a preferência de vendas sendo jogos de ação (action).
+
+## Aprendizados
+- Análise de dados: interpretação e extração de insights valiosos a partir de grandes volumes de dados.
+- Limpeza de dados: identificação e correção de valores ausentes, duplicados e anômalos.
+- Manipulação de tabelas: reorganização e transformação de dados para facilitar a análise.
+- Criação de gráficos: utilização de bibliotecas como Matplotlib, Seaborn para visualizar dados de maneira intuitiva e informativa.
+- Pré-processamento de dados: preparação dos dados para análise.
+- Formulação de hipóteses: desenvolvimento e teste de suposições sobre o comportamento dos clientes com base nos dados.
+- Visualização de dados: criação de gráficos e outros tipos de visualizações para identificar padrões e tendências.
+- Documentação de projetos: elaboração de documentação clara e detalhada para garantir que o projeto seja compreensível e replicável.
+- Utilização de bibliotecas e ferramentas: aplicação prática de diversas bibliotecas e ferramentas do ecossistema Python.
+- Tomada de decisões baseadas em dados: uso de insights derivados da análise de dados para orientar decisões estratégicas.
